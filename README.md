@@ -1,2 +1,1 @@
-# ORB-SLAM2-Comments
-Chinese comments for ORB-SLAM2
+Chinese Version Comments of ORB_SLAM2, ORB-SLAM2 see website: https://github.com/raulmur/ORB_SLAM2
